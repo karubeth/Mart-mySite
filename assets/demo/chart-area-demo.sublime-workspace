@@ -1,0 +1,191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Efashion/app/Models/Product.php",
+		"/C/xampp/htdocs/Efashion/routes/web.php",
+		"/C/xampp/htdocs/Efashion/resources/views/welcome.blade.php",
+		"/C/Users/gallenz/Desktop/laravel tutorials/Phpphp/resources/views/student.blade.php",
+		"/C/xampp/htdocs/Efashion/app/Http/Controllers/ProductsController.php",
+		"/C/Users/gallenz/Desktop/laravel tutorials/Phpphp/Http/Controllers/CaseController.php",
+		"/C/xampp/htdocs/Efashion/.env",
+		"/C/Program Files (x86)/Vim/vim82/gvim.exe",
+		"/C/xampp/htdocs/myapp/app/Models/Category.php",
+		"/C/xampp/htdocs/myapp/database/migrations/2021_11_20_130505_add_category-id_to_categories_table.php",
+		"/C/xampp/htdocs/myapp/database/migrations/2021_11_20_124917_add_caregory-id_to_categories_table.php",
+		"/C/xampp/htdocs/myapp/database/migrations/2021_11_20_123945_add_name_to_categories_table.php",
+		"/C/xampp/htdocs/myapp/resources/js/components/Example.js",
+		"/C/xampp/htdocs/myapp/resources/views/home.blade.php",
+		"/C/xampp/htdocs/myapp/resources/js/app.js",
+		"/C/xampp/htdocs/myapp/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/myapp/vendor/tcg/voyager/src/Models/Category.php",
+		"/C/xampp/htdocs/myapp/.env",
+		"/C/xampp/htdocs/myapp/webpack.mix.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chart-area-demo.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
